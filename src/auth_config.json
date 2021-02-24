@@ -1,0 +1,7 @@
+{
+  "domain": "dev-8qmrfy0m.us.auth0.com",
+  "clientId": "lrxY1701UK4cj4ly7flAT6uwmymc1Hje",
+  "audience": "YOUR_API_IDENTIFIER",
+  "appOrigin": "http://localhost:3000",
+  "apiOrigin": "http://localhost:3001" 
+}
